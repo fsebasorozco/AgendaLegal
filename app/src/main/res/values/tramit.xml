@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tramit">
+        <item>Tutela</item>
+        <item>Habeas Data</item>
+        <item>Certificado de libertad</item>
+    </string-array>
+</resources>

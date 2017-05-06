@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda Legal</string>
+    <string name="location">Ubicación</string>
+    <string name="pick_date">Escoger fecha</string>
+    <string name="paperwork">Papelería requerida</string>
+    <string name="cc">Cedula cliente</string>
+    <string name="citatorio">Citatorio con copia</string>
+    <string name="save">Guardar</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
